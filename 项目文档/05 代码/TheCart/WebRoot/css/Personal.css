@@ -1,0 +1,60 @@
+@CHARSET "UTF-8";
+	body{
+		background-color:F1F1F1;
+		}
+		.person{
+			margin-left:150px;
+			width:1000px;
+			height:40px;
+			border: 1px solid #1e5494;
+			line-height:40px;
+		}
+		.soma{
+			margin-left:150px;
+			width:1000px;
+			border: 1px solid #1e5494;
+			height:500px;
+		}
+		.bobyleft{
+			float:left;
+			width:160px;
+			border: 1px solid #1e5494;
+			height:100%;
+		}
+		.bobyleft a{
+			color: #1e5494;	
+			}
+		.bobyright{
+			float:left;
+			width:835px;
+			border: 1px solid #1e5494;
+			height:100%;
+		}
+		.headimg{
+			width:100px;
+			height:100px;
+			margin-left:30px;
+			margin-top:20px;
+		}
+		.bobyright .name{
+			width:100%;
+			height:35px;
+			float:left;
+			margin-left:20px;
+			line-height:35px;
+		}
+		.bobyright .info{
+			width:100%;
+			height:auto;
+		}
+		.bodyright .message{
+			width:100%;
+			height:35px;
+			float:left;
+			margin-left:20px;
+			line-height:35px;
+		}
+		.xiugai{
+			display:block;
+			float:right;
+		}
